@@ -14,8 +14,7 @@ int main() {
    decimal = *ptrF; 
    printf("%.3f %.3f %p\n", pi, decimal, ptrF);
 
-   char latra
-
+   
 
    return 0;
 }
